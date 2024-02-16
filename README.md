@@ -1,1 +1,1 @@
-Path Tracing Implementation for the discipline of "Computação Gráfica". CIN - UFPE 2024
+Framework with Linear Algebra Operations for the Path Tracing Implementation. Computação Gráfica, CIN - UFPE 2024
